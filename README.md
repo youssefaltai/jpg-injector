@@ -10,8 +10,6 @@ inject [input.jpg] [payload.*] [output.jpg]
 
 Injects the specified payload into the specified JPG
 
-****
-
 ```
 extract [injected.jpg] [extracted_payload.*]
 ```
