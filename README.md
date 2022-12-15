@@ -2,6 +2,8 @@
 
 ### Inject any kind of data into a JPG image without affecting it.
 
+****
+
 #### **Commands:**
 
 ```
@@ -15,6 +17,8 @@ extract [injected.jpg] [extracted_payload.*]
 ```
 
 Extracts injected payload from the specified JPG into a separate file
+
+****
 
 ### **Example**
 
