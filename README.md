@@ -18,7 +18,7 @@ extract [injected.jpg] [extracted_payload.*]
 
 Extracts injected payload from the specified JPG into a separate file
 
-#### **Example**
+### **Example**
 
 We have a JPG image
 
