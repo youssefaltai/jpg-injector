@@ -1,8 +1,7 @@
 # JPG Injector
 
-### Inject any kind of data into a JPG image without affecting it.
+Inject any kind of data into a JPG image without affecting it.
 
-****
 
 #### **Commands:**
 
